@@ -1,0 +1,91 @@
+body {
+    margin: 1;
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    padding-top: 60px;
+    text-align: center;
+
+    content: attr(data-foo);
+    
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #000;
+    
+}
+
+.form {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    border-radius: 5px;
+
+}
+
+#content {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+
+
+
+/* Path: static/css/main.css */
+
+    
+/* Language: css */
+/* Path: static/css/main.css */
+a {
+    color: #0088cc;
+    text-decoration: none;
+}
+
+/* Language: css */
+/* Path: static/css/main.css */
+
+a:hover {
+    color: #005580;
+    text-decoration: underline;
+}
+
+/* Language: css */
+/* Path: static/css/main.css */
+
+a:focus {
+    color: #333333;
+    text-decoration: underline;
+}
+
+/* Language: css */
+/* Path: static/css/main.css */
+
+a:active {
+    color: #333333;
+    text-decoration: underline;
+}
+
+/* Language: css */
+/* Path: static/css/main.css */
+
+
+
